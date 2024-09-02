@@ -1,7 +1,7 @@
 "use client"
 
 
-import LocomotiveScroll from "locomotive-scroll";
+
 import About from "./Components/About";
 import Cards from "./Components/Cards";
 import Eyes from "./Components/Eyes";
@@ -11,7 +11,7 @@ import Marquee from "./Components/Marquee";
 import Navbar from "./Components/Navbar";
 
 export default function Home() {
-  const locomotiveScroll = new LocomotiveScroll()
+
   return (
     <>
 
